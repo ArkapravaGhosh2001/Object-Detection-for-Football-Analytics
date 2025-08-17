@@ -1,0 +1,7 @@
+VENV
+.env
+InputVideos
+Training/football-players-detection-1
+*.pt
+runs/detect/predict
+# Python virtual environment
